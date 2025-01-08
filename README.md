@@ -5,7 +5,11 @@ Object segmentation based on color and size is a fundamental task in imageproces
 lighting conditions and integrating machine learning techniques to improvesegmentation accuracy. 
 
 Keywords: Image processing,Open cv,Image segmentation,Mask accuracy, Morphological operations
+
 Frontend:
+
 ![image](https://github.com/user-attachments/assets/bb268522-93da-461d-b69e-0e7912915d9b)
+
 Result:
+
 ![image](https://github.com/user-attachments/assets/54096ccd-bb90-4d6c-9101-7ad0fbe180c8)
